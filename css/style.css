@@ -178,6 +178,10 @@ p.abt-para {
 .abt-gd-left {
     padding-top: 200px;
 }
+
+.aws-certificate {
+	padding-top: 175px;
+}
 /*--pie-chart---*/
 .pie-title-center {
   display: inline-block;
@@ -1040,6 +1044,9 @@ background:#fff;
 	}
 	.thumb:hover ul li {
 		margin: 72px 0px 0;
+	}
+	.aws-certificate {
+		padding-top: 145px;
 	}	
 }
 @media (max-width: 1080px){
@@ -1163,6 +1170,9 @@ background:#fff;
 	.abt-gd-left {
 		padding-top: 152px;
 	}
+	.aws-certificate {
+		padding-top: 109px;
+	}
 	.employ-left,.employ-left2 {
 		float: left;
 		width:50%;
@@ -1245,6 +1255,9 @@ background:#fff;
 	.abt-gd-left {
 		padding-top: 70px;
 	}
+	.aws-certificate {
+		padding-top: 109px;
+	}
 	.abt-right {
 		min-height: 312px;
 	}
@@ -1320,7 +1333,10 @@ background:#fff;
 	}
     .abt-gd-left h4 {
         font-size: 16px;
-    }
+	}
+	.aws-certificate {
+		width: 50%;
+	}
 	.numscroller {
 		font-size: 18px;
 		width: 103px;
@@ -1506,6 +1522,9 @@ background:#fff;
 		padding: 15px 0;
 	}
 	.abt-gd-left {
+		padding-top: 0px;
+	}
+	.aws-certificate {
 		padding-top: 0px;
 	}
 	.abt-gd-left {
